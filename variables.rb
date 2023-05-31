@@ -7,3 +7,6 @@ mugs = 10
 turing_deposit = 1200.00
 incidental_charge = 225.00
 rent = 2700.00
+awake = true
+asleep = false
+ready_to_learn = true
