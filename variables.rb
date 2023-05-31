@@ -10,3 +10,9 @@ rent = 2700.00
 awake = true
 asleep = false
 ready_to_learn = true
+name # "Noelle E"
+home_town # "Paris, France"
+puts "Time to learn"
+puts "Happy Mod0 Week"
+puts "Caffeine and pickles can help migraines"
+puts "Ruby is a great language"
