@@ -4,3 +4,6 @@ home_town = "Fort Collins, CO"
 age = 25
 pets = 2
 mugs = 10
+turing_deposit = 1200.00
+incidental_charge = 225.00
+rent = 2700.00
